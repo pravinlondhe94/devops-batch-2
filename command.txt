@@ -5,3 +5,5 @@ git status
 git branch
 git clone
 git remote -v
+git pull
+git fetch
